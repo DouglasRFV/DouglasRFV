@@ -1,4 +1,4 @@
-### Olá, me chamo Douglas!  
+### Olá, me chamo Douglas Viana!  
 ### Bem vindo ao meu perfil do GitHub 👋
 
 #### Aqui você vai encontrar um pouco da minha trajetória como DEV, meus projetos pessoais e de faculdade. 
