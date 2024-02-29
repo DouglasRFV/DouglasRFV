@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/douglasrfviana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div style="display: inline_block"><br>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"></a>
